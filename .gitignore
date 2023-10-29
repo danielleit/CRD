@@ -1,0 +1,13 @@
+.classpath
+.project
+.settings
+.metadata
+*.log
+*.zip
+*.class
+*.swp
+*.target
+*.classes
+*.build
+*.bin
+*.classes
